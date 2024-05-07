@@ -1,0 +1,3 @@
+open sftp://USERNAME:PASSWORD@HOST:PORT/
+put "Q:\Research\Images(new)\MuseumSpecimens\KHD\To_Be_Compressed\JPEG\*.jpg" /data/images/
+exit
