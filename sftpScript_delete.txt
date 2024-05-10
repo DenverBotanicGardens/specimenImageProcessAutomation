@@ -1,0 +1,4 @@
+open sftp://USERNAME:PASSWORD@HOST:PORT/
+cd /data/images/
+rm *.jpg
+exit
