@@ -1,0 +1,3 @@
+open sftp://rlevy:rl2021@research@dbg-research-db:9022/
+put "Q:\Research\Images(new)\MuseumSpecimens\DBG\DBG_Specimens\DBG_ToBeCompressed\JPEG\*.jpg" /data/images/
+exit

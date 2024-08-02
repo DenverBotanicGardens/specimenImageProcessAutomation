@@ -1,0 +1,4 @@
+open sftp://rlevy:rl2021@research@dbg-research-db:9022/
+cd /data/images/
+rm *.jpg
+exit
