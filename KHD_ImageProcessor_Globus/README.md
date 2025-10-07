@@ -30,7 +30,7 @@ There are 3 files:
 - RAW files saved in a local directory - "ToBeConverted" in these scripts  
 
 ## _Process_KHD_ImagesGlobus.bat  
-This .bat file will run a process in the command line that does the following
+Double click this .bat file to run a process in the command line that does the following
 
 Makes a .dng copy of each RAW file and saves it in the same location
 
@@ -85,7 +85,7 @@ This javascript file defines what Photoshop should do to create a reduced qualit
 
 ## _DeleteWebVersions_KHD_ImagesGlobus.bat
 
-This .bat file can be run once all images are imported to Globus. It simply deletes all the reduced quality .jpg web version files from the local directory.
+Double click this .bat file to run once all images are imported to Globus. It simply deletes all the reduced quality .jpg web version files from the local directory.
 
 ## Final Step - Run Image Processing within Symbiota  
 To map the images from Globus to their corresponding specimen record, you must run the KU Globus processing profile within your Symbiota portal
