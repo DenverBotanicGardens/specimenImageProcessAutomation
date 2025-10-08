@@ -31,6 +31,6 @@ move /y Q:\Research\Images(new)\MuseumSpecimens\KHD\To_Be_Converted\*.CR2 Q:\Res
 REM Move the .JPG raw files into the JPG All folder and overwrite already existing
 move /y Q:\Research\Images(new)\MuseumSpecimens\KHD\To_Be_Compressed\*.JPG Q:\Research\Images(new)\MuseumSpecimens\KHD\KHD_JPEG_ALL
 
-REM Process Complete. Images are being sent to GLOBUS. You will recieve an email when they are ready for mapping on SEINet. Use the KU Globus Image Processing Profile.
+REM Process Complete. Images are now available on NetX. They are ready for mapping on SEINet using the Extended Data Import Tool.
 
 pause
