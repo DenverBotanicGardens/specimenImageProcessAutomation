@@ -42,7 +42,7 @@ payload = {
                 {
                     "operator": "and",
                     "range": {
-                        "field": "importDate",
+                        "field": "modDate",
                         "min": str(min_ms),
                         "max": str(max_ms),
                         "includeMin": True,
